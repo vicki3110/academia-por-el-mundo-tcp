@@ -1,0 +1,6 @@
+{
+  "name": "Altius Aero — Escuela Superior TCP y CRM Aeronáutico",
+  "description": "Centro especializado en formación de Tripulantes de Cabina de Pasajeros (TCP), técnicas avanzadas de aviación e integración operativa conjunta para pilotos y azafatas profesionales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
